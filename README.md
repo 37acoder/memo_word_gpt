@@ -10,6 +10,23 @@ Memo Word GPT is a program built on Streamlit that assists in memorizing words. 
 
 3. **Chinese Prompt, English Word**: In this mode, you will be prompted with a Chinese word and you need to provide the correct English word.
 
+## Demo Screenshots
+
+Here are some demo screenshots of Memo Word GPT in action:
+
+![Screenshot 1](statics/1.jpg)
+*Caption for English Prompt, Chinese Translation*
+
+![Screenshot 2](statics/2.jpg)
+*Caption for English Pronunciation, English Word*
+
+![Screenshot 3](statics/3.jpg)
+*Caption for Chinese Prompt, English Word*
+
+![Screenshot 4](statics/4.jpg)
+*Caption for Result Sheet*
+
+
 ## Features
 
 - Automatic scoring and correction using GPT-powered algorithms.

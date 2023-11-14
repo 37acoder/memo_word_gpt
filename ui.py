@@ -16,6 +16,8 @@ else:
         st.session_state["memoing"] = False
 if "translate_result" not in st.session_state:
     st.session_state["translate_result"] = {}
+if "words" not in st.session_state:
+    st.session_state["words"] = []
 
 with st.expander(
     "All words",
