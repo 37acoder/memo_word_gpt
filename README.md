@@ -26,6 +26,9 @@ Here are some demo screenshots of Memo Word GPT in action:
 ![Screenshot 4](statics/4.jpg)
 *Caption for Result Sheet*
 
+## Try It!
+
+[Streamlit Community Cloud](https://memo-word-gpt.streamlit.app/)
 
 ## Features
 
